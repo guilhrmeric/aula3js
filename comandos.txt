@@ -1,0 +1,11 @@
+code .
+node teste
+npm init
+dir
+npm install expe
+npm install express
+npm i -g express
+npm i -g ejs
+dir
+doskey /h
+doskey /h >comandos.txt
